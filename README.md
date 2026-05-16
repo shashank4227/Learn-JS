@@ -20,4 +20,16 @@ In my first phase, I'm focusing on the core building blocks of the language:
 
 ---
 
+## 🟡 A Glimpse into Phase 2: Intermediate JavaScript
+
+In the second phase, I'm moving beyond the basics to understand how JavaScript works internally and building interactive web applications:
+
+- 🔍 **Behind the Scenes:** Exploring Scope, Hoisting, and the Event Loop Basics.
+- 🧠 **Advanced Functions:** Diving deep into Functions, Closures, Higher-Order Functions, and Callbacks.
+- 📋 **Data Manipulation:** Mastering Array Methods.
+- 🌐 **Web Interaction:** Learning DOM Manipulation, handling Events, and working with Timing Functions.
+- 🛠️ **Mini DOM Project:** Applying my knowledge to build a practical, interactive web project!
+
+---
+
 *Consistency is the key to mastering programming! Let's get coding!* 🔥✨
